@@ -1,0 +1,4 @@
+interface:
+  display_name: "开源项目扫描与修复"
+  short_description: "发现热门开源项目中的可验证缺陷，生成修复证据并按规则提交 PR"
+  default_prompt: "使用 $oss-fix-pr 扫描与我的工作相关的热门项目，每批最多 5 个，先试运行。"
